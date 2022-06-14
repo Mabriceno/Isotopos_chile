@@ -1,0 +1,78 @@
+{
+    "bio1":{
+        "long_name":"Annual Mean Temperature",
+        "units":"mm"
+    },
+    "bio2":{
+        "long_name":"Mean Diurnal Range",
+        "units":"Celsius"
+    },
+    "bio3":{
+        "long_name":"Isothermality",
+        "units":"%"
+    },
+    "bio4":{
+        "long_name":"Temperature Seasonality",
+        "units":""
+    },
+    "bio5":{
+        "long_name":"",
+        "units":"Celsius"
+    },
+    "bio6":{
+        "long_name":"Min Temperature of Coldest Month",
+        "units":"Celsius"
+    },
+    "bio7":{
+        "long_name":"Temperature Annual Range",
+        "units":"Celsius"
+    },
+    "bio8":{
+        "long_name":" Mean Temperature of Wettest Quarter",
+        "units":"Celsius"
+    },    
+    "bio9":{
+        "long_name":"Mean Temperature of Driest Quarter",
+        "units":"Celsius"
+    },
+    "bio10":{
+        "long_name":"Mean Temperature of Warmest Quarter",
+        "units":"Celsius"
+    },
+    "bio11":{
+        "long_name":"Mean Temperature of Coldest Quarter",
+        "units":"Celsius"
+    },
+    "bio12":{
+        "long_name":"Annual Precipitation",
+        "units":"mm"
+    },
+    "bio13":{
+        "long_name":"Precipitation of Wettest Month",
+        "units":"mm"
+    },
+    "bio14":{
+        "long_name":"Precipitation of Driest Month",
+        "units":"mm"
+    },
+    "bio15":{
+        "long_name":"Precipitation Seasonality",
+        "units":""
+    },
+    "bio16":{
+        "long_name":"Precipitation of Wettest Quarter",
+        "units":"mm"
+    },
+    "bio17":{
+        "long_":"Precipitation of Driest Quarte",
+        "units":"mm"
+    },
+    "bio18":{
+        "long_name":"Precipitation of Warmest Quarter",
+        "units":"mm"
+    },
+    "bio19":{
+        "long_name":"Precipitation of Coldest Quarter",
+        "units":"mm"
+    }
+}

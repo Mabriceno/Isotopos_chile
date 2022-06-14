@@ -1,0 +1,71 @@
+filling on, default _FillValue of 9.969209968386869e+36 used
+(492, 800, 220)
+
+time
+float32 time(time)
+    standard_name: time
+    long_name: time
+    units: months since 1978-12-15
+    axis: T
+    calendar: proleptic_gregorian
+    bounds: time_bnds
+unlimited dimensions:
+current shape = (492,)
+
+tmax
+float32 tmax(time, lat, lon)
+    long_name: mean daily maximum temperature
+    units: Celsius
+    missing_value: -9999.0
+unlimited dimensions:
+current shape = (492, 800, 220)
+
+tmin
+float32 tmin(time, lat, lon)
+    long_name: mean daily minimum temperature
+    units: Celsius
+    missing_value: -9999.0
+unlimited dimensions:
+current shape = (492, 800, 220)
+filling on, default _FillValue of 9.969209968386869e+36 used
+(492, 800, 220)
+
+t2m
+float32 t2m(time, lat, lon)
+    _FillValue: -32768.0
+    long_name: daily mean 2-meter temperature
+    units: Celsius
+    scale_factor: 0.00166666666666667
+    add_offset: 0.0
+unlimited dimensions:
+current shape = (492, 800, 220)
+filling on
+(492, 800, 220)
+
+pr
+float32 pr(time, lat, lon)
+    long_name: precipitation
+    units: mm
+    missing_value: -9999.0
+unlimited dimensions:
+current shape = (492, 800, 220)
+filling on, default _FillValue of 9.969209968386869e+36 used
+(492, 800, 220)
+
+lat
+float32 lat(lat)
+    standard_name: latitude
+    long_name: latitude
+    units: degrees_north
+    axis: Y
+unlimited dimensions:
+current shape = (800,)
+
+lon
+float32 lon(lon)
+    standard_name: longitude
+    long_name: longitude
+    units: degrees_east
+    axis: X
+unlimited dimensions:
+current shape = (220,)
